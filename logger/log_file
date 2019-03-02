@@ -1,0 +1,6 @@
+Jul 24 2018 23:11:47 3341 W my_program main@main.c:11 I'm a warning in debug mode
+Jul 24 2018 23:11:47 3341 E my_program main@main.c:12 I'm just an error string
+Jul 25 2018 16:12:09 23026 140177661740224 W my_program I'm a warning in debug mode
+Jul 25 2018 16:12:09 23026 140177661740224 E my_program I'm just an error string
+Jul 25 2018 16:26:53 23159 140325738083520 W my_program I'm a warning in debug mode
+Jul 25 2018 16:26:53 23159 140325738083520 E my_program I'm just an error string
