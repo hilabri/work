@@ -1,0 +1,15 @@
+mask-.cdr
+input-/tmp/cdr/
+progress-/tmp/in_progress/
+done-/tmp/done/
+output-/tmp/billing/
+detect-4
+read-10
+parser-1000
+report-3
+ui-1
+file_queue-20
+line_queue-10000  
+subs_hash-10000
+oper_hash-20
+request_queue-10
