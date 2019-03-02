@@ -1,0 +1,22 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.o
+
+# Precompiled Headers
+*.gch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.out
+
+# Others
+*.DS_Store
